@@ -19,7 +19,7 @@
 
 ![Joe can see Discontinued Opportunities  ](./img/joe-can-see-discontined-opptys.png) 
 
-- Create a criteria based sharing rule for Opportunity to:  provide read-only access to the Opportunities (to non-owners) with a restriction: they can see the Opportunities if they do not own and the Opportunity Stage is NOT **Discontinued**
+- Create a criteria based sharing rule for Opportunity to:  provide read-only access to the Opportunities (to non-owners) with a restriction: they can see the Opportunities they do not own and the Opportunity Stage is NOT **Discontinued**
 
 ![criteria based sharing rule for Opportunity](./img/criteria-based-sharing-rule.png) 
 
