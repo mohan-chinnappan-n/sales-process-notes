@@ -3,9 +3,9 @@
 #### Use case: Company: ACME computing
 - Org-wide-default of Opportunity is *private*
 - Likes to introduce new Opportunity Stage called: **Discontinued**
-- Likes to provide read-only access to the Opportunities ( to the non-owners) with a restriction: they can see the Opportunities, if they do not own and the Opportunity Stage is NOT **Discontinued**
+- Likes to provide read-only access to the Opportunities ( to the non-owners) with a restriction: they can see the Opportunities that they do not own while the Opportunity Stage is NOT **Discontinued**
 
-#### Steps
+#### Steps	
 
 - Make sure Org-wide-default for Opportunity is private
 
@@ -19,7 +19,7 @@
 
 ![Joe can see Discontinued Opportunities  ](./img/joe-can-see-discontined-opptys.png) 
 
-- Create a criteria based sharing rule for Opportunity to:  provide read-only access to the Opportunities (to non-owners) with a restriction: they can see the Opportunities they do not own and the Opportunity Stage is NOT **Discontinued**
+- Create a criteria based sharing rule for Opportunity to:  provide read-only access to the Opportunities (to non-owners) with a restriction: they can see the Opportunities they do not own while Opportunity Stage is NOT **Discontinued**
 
 ![criteria based sharing rule for Opportunity](./img/criteria-based-sharing-rule.png) 
 
