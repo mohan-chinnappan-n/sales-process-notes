@@ -2,7 +2,7 @@
 
 #### Use case: Company: ACME computing
 - Org-wide-default of Opportunity is private
-- Likes introduce new Opportunity stage called: **Discontinued**
+- Likes to introduce new Opportunity stage called: **Discontinued**
 - Likes to provide read-only access to the Opportunities ( to non-owners) with a restriction: they can see the Opportunities if they do not own and the Opportunity Stage is NOT **Discontinued**
 
 #### Steps
